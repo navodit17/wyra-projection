@@ -97,7 +97,7 @@ export default function DealModel() {
       <style>{`@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,400&family=IBM+Plex+Mono:wght@400;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap');`}</style>
  
       <div style={{ marginBottom: 4 }}>
-        <span style={{ fontFamily: "var(--mono)", fontSize: 11, letterSpacing: 2, color: "var(--gold)", textTransform: "uppercase" }}>Deal Desk · Side-Project Economics</span>
+        <span style={{ fontFamily: "var(--mono)", fontSize: 11, letterSpacing: 2, color: "var(--gold)", textTransform: "uppercase" }}>Deal Desk · Projection</span>
       </div>
       <h1 style={{ fontFamily: "var(--serif)", fontWeight: 600, fontSize: 30, margin: "2px 0 4px", letterSpacing: -0.5 }}>
         Revenue-share vs. the day job
